@@ -1,4 +1,4 @@
-# This is the main repoi from our course
+# This is the main repo from our course
 
 ## Here are links to our courses
 * [DevOps](https://github.com/devops-cloud-courses/devops)
